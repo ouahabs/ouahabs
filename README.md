@@ -1,6 +1,6 @@
 ### Abdelouahab
 ---
 Hello
-* :computer: I'm currently a comp-sci student.
-* :open_book: I'm currently trying to more about cyber security.
-* :inbox_tray: You can reach me through my [twitter](https://twitter.com/ouahabss) or [website](https://ouahabs.github.io).
+* :computer: I'm currently a comp-sci student @ [ESI-SBA](https://www.esi-sba.dz/)
+* :open_book: I'm currently trying to more about Cyber Security.
+* :inbox_tray: You can reach me through [Twitter](https://twitter.com/ouahabss) or my [website](https://ouahabs.github.io).
